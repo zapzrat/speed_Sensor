@@ -1,4 +1,4 @@
-const int speedSensorPin = 2 ;
+const int speedSensorPin = D4 ;
 const int ledPin = D0;
 
 int statusSpeed = 0;
